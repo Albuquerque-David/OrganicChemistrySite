@@ -1,0 +1,183 @@
+nav{
+	position:sticky;
+}
+
+.row{
+}
+
+#hidrocarbonetos1{
+	background: url(_background/background-verde.jpg) fixed;
+	position: relative;
+	background-size: 100% 80em;
+}
+
+#fundo{
+	background: url(_background/background-onda-verde.jpg) fixed;
+	position: relative;
+	background-size: 100%;
+}
+
+#fundo2{
+	background: url(bg-alcano-2.jpg) fixed;
+	position: relative; 
+	background-size: 150% 80em;
+	background-repeat: no-repeat;
+}
+
+#fundo3{
+	background:url(_background/oil-gas.jpg) fixed;
+	position: relative;
+	background-size: 100% 80em;
+}
+
+#alceno1{
+	background: url(_background/cloud.jpg) fixed;
+	position: relative;
+	background-size: 100% 50em no-repeat;
+}
+
+#alceno2{
+	background: url(_background/oil.jpg) fixed;
+	position: relative; 
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+#alceno3{
+	background:url(_background/folhas.jpg) fixed;
+	position: relative;
+	background-size: 100%;
+}
+
+#alcino1{
+	background: url(_background/vibrante.jpg) fixed;
+	position: relative;
+	background-size: 100% 80em;
+}
+
+#alcino2{
+	background: url(_background/cave.jpg) fixed;
+	position: relative;
+	background-size: 100% 80em;
+}
+
+#alcino3{
+	background: url(_background/metalurgica.jpg) fixed;
+	position: relative;
+	background-size: 100% 80em;
+}
+
+#alcino4{
+	background: url(_background/incendio.jpg) fixed;
+	position: relative;
+	background-size: 100% 80em;
+}
+
+#alcadienos1{
+    background:url(_background/floresta.jpg) fixed;
+    position: relative;
+    background-size: 100%;
+}
+
+#alcadienos2{
+    background:url(bg-alcadienos-2-1.jpg) fixed;
+    position: relative;
+    background-size: 80%;
+}
+
+#alcadienos3{
+    background:url(bg-alcadienos-3.jpg) fixed;
+    position: relative;
+    background-size: 100%;
+}
+
+#ciclano1{
+    background:url(_background/blue.jpg) fixed;
+    position: relative;
+    background-size: 100%;
+}
+
+#ciclano2{
+    background:url(_background/azul-poligono.jpg) fixed;
+    position: relative;
+    background-size: 100%;
+}
+
+#ciclano3{
+    background:url(bg-ciclano-3.png) fixed;
+    position: relative;
+    background-size: 100%;
+}
+
+#ciclenos1{
+    background:url(bg-ciclenos-1.png) fixed;
+    position: relative;
+    background-size: 100%;
+}
+
+#ciclenos2{
+    background:url(_background/montanhas.jpg) fixed;
+    position: relative;
+    background-size: 100%;
+}
+
+#ciclenos3{
+    background:url(_background/fruit.jpg) fixed;
+    position: relative;
+    background-size: 100%;
+}
+
+#aromaticos1{
+    background:url(_background/vista.jpg) fixed;
+    position: relative;
+    background-size: 100%;
+}
+
+#aromaticos2{
+    background:url(bg-aromaticos-2.jpg) fixed;
+    position: relative;
+    background-size: 100%;
+}
+
+#aromaticos3{
+    background:url(bg-aromaticos-3.jpg) fixed;
+    position: relative;
+    background-size: 100%;
+}
+
+
+#fundo-conteudo{
+	padding-top:5%;
+	padding-bottom: 10%;
+	position: relative;
+	text-align: left;
+}
+
+img{
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+
+
+footer{
+	clear: both;
+	background-color: rgba(33,33,33 ,1);
+	padding-top: 2%;
+}
+
+footer img{
+	width: 4em;
+	height: 4em;
+	position: relative;
+}
+
+footer a:link{
+	text-decoration: none;
+	color:white;
+}
+
+footer a:visited{
+	text-decoration: none;
+	color:white;
+}
